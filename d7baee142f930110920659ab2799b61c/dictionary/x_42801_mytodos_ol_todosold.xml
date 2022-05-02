@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ToDosOld" max_length="40" name="x_42801_mytodos_ol_todosold" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ID" max_length="40" name="id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Message" max_length="4000" name="message" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
